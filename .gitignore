@@ -1,0 +1,15 @@
+# Ficheiros de Ambiente e Segredos (SEGURANÇA)
+.env
+.env.local
+*.pem
+credentials.json
+
+# Pastas de Dependências
+node_modules/
+venv/
+__pycache__/
+
+# Ficheiros do Sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
